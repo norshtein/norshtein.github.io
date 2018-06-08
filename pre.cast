@@ -232,7 +232,7 @@
 [40.739862, "o", "\r\n"]
 [40.740116, "o", "   -----> Installing glide v0.13.0"]
 [40.740342, "o", "\r\n"]
-[41.039063, "o", "          Download [https://buildpacks.cloudfoundry.org/dependencies/glide/glide-v0.13.0-linux-x64-f13fe16b.tgz]\r\n   -----> Installing dep v0.3.2\r\n          Download [https://buildpacks.cloudfoundry.org/dependencies/dep/dep-v0.3.2-linux-x64-8910d5c1.tgz]\r\n   -----> Installing go 1.8.5\, "o", "          Download [https://buildpacks.cloudfoundry.org/dependencies/go/go1.8.5.linux-amd64-fe5c03fb.tar.gz]\r\n"]
+[41.039063, "o", "          Download [https://buildpacks.cloudfoundry.org/dependencies/glide/glide-v0.13.0-linux-x64-f13fe16b.tgz]\r\n   -----> Installing dep v0.3.2\r\n          Download [https://buildpacks.cloudfoundry.org/dependencies/dep/dep-v0.3.2-linux-x64-8910d5c1.tgz]\r\n   -----> Installing go 1.8.5\r\n"]
 [41.339063, "o", "          Download [https://buildpacks.cloudfoundry.org/dependencies/go/go1.8.5.linux-amd64-fe5c03fb.tar.gz]\r\n"]
 [43.339063, "o", "          Note: skipping (dep ensure) due to non-empty vendor directory.\r\n   -----> Running: go install -tags cloudfoundry -buildmode pie github.com/Azure/open-service-broker-azure/cmd/broker\r\n"]
 [45.339063, "o", "   Exit status 0\r\n"]
