@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  open-service-broker-azure:
+  - apiVersion: v1
+    appVersion: 1.8.3
+    created: 2019-09-06T07:02:26.897885713Z
+    description: A Helm chart for Open Service Broker For Azure
+    digest: 6b4c3b8435545e03f680a10c8f98a668ee31f3823bed30951177b7f2ad5f5232
+    home: https://github.com/azure/open-service-broker-azure
+    keywords:
+    - azure
+    - services
+    - service broker
+    maintainers:
+    - email: kent.rancourt@microsoft.com
+      name: Kent Rancourt
+    - email: jeremy.rickard@microsoft.com
+      name: Jeremy Rickard
+    name: open-service-broker-azure
+    sources:
+    - https://github.com/azure/open-service-broker-azure
+    - https://hub.docker.com/r/microsoft/azure-service-broker/
+    tillerVersion: '>=2.7.0-rc1'
+    urls:
+    - https://norshtein.github.io/open-service-broker-azure-1.8.3.tgz
+    version: 1.8.3
+generated: 2019-09-06T07:02:26.896442216Z
